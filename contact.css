@@ -65,7 +65,16 @@
             width: 100%;
             min-height: 15em;
         }
-
+        .footer1{ 
+            margin-top: 34px;
+            background-color: #25262a;
+            display: flex;
+            height: 132px;
+            width: 100%;
+            align-items: center;
+        
+        
+        }
         .input-container {
             width: 650px;
             max-width: 100%;
